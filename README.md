@@ -1,2 +1,4 @@
 # JBCA_Hack_Night_2019
-Resources used for the JBCA hack night 18/11/2019. Includes the edge_list data and example notebook.
+Resources used for the JBCA hack night 18/11/2019.
+
+For the slides and data see: https://drive.google.com/drive/folders/1S5SoIMMBKnEQuQgOCi8ZDHS1uvY1KcLJ?usp=sharing
