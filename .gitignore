@@ -5,6 +5,7 @@ __pycache__/
 
 *.csv
 *.pdf
+Demo*Spike.ipynb
 
 # C extensions
 *.so
